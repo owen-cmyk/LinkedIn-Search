@@ -1,0 +1,5 @@
+playwright>=1.43.0
+gspread>=6.0.0
+google-auth>=2.30.0
+python-dotenv>=1.0.1
+tenacity>=8.2.3
